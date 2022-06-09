@@ -1,2 +1,2 @@
 How install
-- [https://github.com/AdrianMRZ/Virus-Death/releases](Download)
+- https://github.com/AdrianMRZYT/Virus-Death/releases
